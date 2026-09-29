@@ -18,7 +18,8 @@ PlgMyQuill can be installed through the LifeTechOCMS Marketplace or directly fro
 plugins/
 └── PlgMyQuill/
     └── Services/
-        └── font-awesome.css
+        └── quill.css
+        └── quill.js
 ```
 
 The exact plugin directory may vary depending on the LifeTech installation version.
